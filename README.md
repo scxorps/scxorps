@@ -60,19 +60,34 @@
 
 ---
 
-### 📫 Let's Connect
-
+<!-- Animated Social Section -->
 <h3 align="center">🤝 Let's Connect</h3>
 
-<p align="center">
-  <a href="mailto:mohamed79163@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+<style>
+  .socials-container a img {
+    transition: transform 0.2s ease-in-out;
+    margin: 4px;
+  }
+  .socials-container a img:hover {
+    transform: scale(1.1);
+  }
+</style>
+
+<p align="center" class="socials-container">
+  <a href="mailto:mohamed79163@gmail.com" title="Send me an email" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-social&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/scxorps">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/scxorps" title="Visit my LinkedIn profile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-social&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/scxorps">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://github.com/scxorps" title="Check out my GitHub" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-social&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://t.me/redj777" title="Message me on Telegram" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-social&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://discordapp.com/users/s7v1n" title="Chat with me on Discord" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-social&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </p>
 
