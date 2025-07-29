@@ -44,9 +44,14 @@
 
 ### 🚀 Featured Projects
 
-- 🔗 [**TBC Propagation Predictor**](https://github.com/scxorps/tbc-predictor) – Predict future tuberculosis cases using LSTM
-- 🔗 [**Vaccination Manager**](https://github.com/scxorps/vaccination-app) – AI-powered vaccine scheduling and reminders
-- 🔗 [**Marketplace Automation**](https://github.com/scxorps/marketplace-automation) – Sheet-to-Facebook automation with Telegram + WhatsApp
+- 🔗 [**Demio – TBC Prediction & Appointments**](https://github.com/rachidboukhoudmi/PFE)  
+  AI-powered app for tuberculosis (TBC) case prediction and care schedule organization using LSTM + Django.
+
+- 🔗 [**Weatherly**](https://github.com/scxorps/WEATHERLY)  
+  A modern weather forecast app built with Flutter, using the OpenWeatherMap API to deliver accurate real-time weather data.
+
+- 🔗 [**KIO Internship Backend System**](https://github.com/scxorps/KIO-internship)  
+  A scalable Django REST Framework backend developed during my internship. Features include token authentication, PostgreSQL, Celery background tasks, search, and real-time notifications.
 
 ---
 
