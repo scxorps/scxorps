@@ -13,7 +13,7 @@
 ### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,python,django,docker,java,mongodb,git,php,json,github" />
+  <img src="https://skillicons.dev/icons?i=flutter,python,django,docker,java,mongodb,git,php,json,github,vscode" />
 </p>
 
 ---
