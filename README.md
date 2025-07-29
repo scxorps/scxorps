@@ -63,33 +63,24 @@
 <!-- Animated Social Section -->
 <h3 align="center">🤝 Let's Connect</h3>
 
-<style>
-  .socials-container a img {
-    transition: transform 0.2s ease-in-out;
-    margin: 4px;
-  }
-  .socials-container a img:hover {
-    transform: scale(1.1);
-  }
-</style>
-
-<p align="center" class="socials-container">
+<p align="center">
   <a href="mailto:mohamed79163@gmail.com" title="Send me an email" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-social&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-social&logo=gmail&logoColor=white" alt="Gmail" style="margin: 4px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
   <a href="https://www.linkedin.com/in/scxorps" title="Visit my LinkedIn profile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-social&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-social&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin: 4px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
   <a href="https://github.com/scxorps" title="Check out my GitHub" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-social&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-social&logo=github&logoColor=white" alt="GitHub" style="margin: 4px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
   <a href="https://t.me/redj777" title="Message me on Telegram" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-social&logo=telegram&logoColor=white" alt="Telegram" />
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-social&logo=telegram&logoColor=white" alt="Telegram" style="margin: 4px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
   <a href="https://discordapp.com/users/s7v1n" title="Chat with me on Discord" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-social&logo=discord&logoColor=white" alt="Discord" />
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-social&logo=discord&logoColor=white" alt="Discord" style="margin: 4px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
 </p>
+
 
 
 
