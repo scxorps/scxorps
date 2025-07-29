@@ -14,8 +14,9 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,python,django,docker,java,mongodb,git,php,github,vscode" />
-  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" />
+  <img src="https://github.com/khalilbnd/khalilbnd/blob/main/images/json.svg" alt="json" height="30" />
 </p>
+
 
 
 ---
