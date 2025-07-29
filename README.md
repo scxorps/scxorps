@@ -13,8 +13,10 @@
 ### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,python,django,docker,java,mongodb,git,php,json,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=flutter,python,django,docker,java,mongodb,git,php,github,vscode" />
+  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" />
 </p>
+
 
 ---
 
