@@ -1,4 +1,7 @@
-<h1 align="center">Hey there 👋, I'm Mohamed (a.k.a. scxorps)</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=800&center=true&vCenter=true&width=435&lines=Hey+there+👋%2C+I'm+Mohamed+(a.k.a.+scxorps)" alt="Typing SVG" />
+</p>
+
 
 <p align="center">
   🚀 AI Enthusiast | 💻 Full-Stack Developer | 🧠 Logical Thinker  
